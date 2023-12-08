@@ -1,7 +1,8 @@
 # ai-case-study
-## Subheader
-### Sub-Subheader
-Strala, a Utah based company, was founded in 2017.  It was founded by 2 veterans of Adobe.  Rob Clarke, a 8 year employee at Adobe, was a Group Manager.  Mikel Chertudi, also a 8 year employee at Adobe, was Head of Digital Marketing, Growth and Inside Sales.  Strala became Incorporated in Utah on October 5th, 2017.  It was funded as a seed company obtaining 6.5 Million in Funding from VC.
+## Strala, INC
+### Strala
+
+**Strala**, a *Utah based company*, was founded in 2017.  It was founded by 2 veterans of Adobe.  Rob Clarke, a 8 year employee at Adobe, was a Group Manager.  Mikel Chertudi, also a 8 year employee at Adobe, was Head of Digital Marketing, Growth and Inside Sales.  Strala became Incorporated in Utah on October 5th, 2017.  It was funded as a seed company obtaining 6.5 Million in Funding from VC.
 
 With a background from Adobe the two founders Rob and Mikel started a Data Marketing company.  They developed software for Marketing and Sales.  Using AI they developed Programs to utilize the Data that was collected.
 
@@ -13,7 +14,10 @@ With this unique approach Strala uses data-driven customer experience to follow 
 
 With the way Strala could uniquly compile the data they believed companies could save 20-40% on ROI costs.  In February 2020 Strala was acquired by ObservePoint for an undisclosed amount.
 
-The CEO and Co-Founder of ObservePoint said this about Strala after the acquisition, “We’re making sure you data foundation is solid and allows you to spend less time questioning and cleansing your data and more time using it  to drive you company forward”.
+
+ 	> blockquoteThe CEO and Co-Founder of ObservePoint said this about Strala after the acquisition, *“We’re making sure you data foundation is solid and allows you to spend less time questioning and cleansing your data and more time using it  to drive you company forward”.*
+
+[strala.com](https://www.strala.com)
 
 Ref.
 Facebook
