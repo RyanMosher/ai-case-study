@@ -14,8 +14,7 @@ With this unique approach Strala uses data-driven customer experience to follow 
 
 With the way Strala could uniquly compile the data they believed companies could save 20-40% on ROI costs.  In February 2020 Strala was acquired by ObservePoint for an undisclosed amount.
 
-
- 	> blockquoteThe CEO and Co-Founder of ObservePoint said this about Strala after the acquisition, *“We’re making sure you data foundation is solid and allows you to spend less time questioning and cleansing your data and more time using it  to drive you company forward”.*
+>The CEO and Co-Founder of ObservePoint said this about Strala after the acquisition, *“We’re making sure you data foundation is solid and allows you to spend less time questioning and cleansing your data and more time using it  to drive you company forward”.*
 
 [strala.com](https://www.strala.com)
 
